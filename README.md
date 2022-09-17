@@ -59,6 +59,25 @@
 ```
 <p> <em> Texto </em> </p>
 ```
+- `Style dos textos`
+- Tamanho
+```
+<p style = "font-size:10px">Texto</p>
+```
+- Posição
+```
+<p style = "text-align: center">Texto</p>
+
+```
+- Posições
+text-align: left;
+text-align: right;
+text-align: center;
+text-align: justify;
+text-align: justify-all;
+text-align: start;
+text-align: end;
+text-align: match-parent;
 
 
 
