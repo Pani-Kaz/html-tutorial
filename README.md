@@ -70,14 +70,14 @@
 
 ```
 - Posições
-text-align: left;
-text-align: right;
-text-align: center;
-text-align: justify;
-text-align: justify-all;
-text-align: start;
-text-align: end;
-text-align: match-parent;
+<p>text-align: left;</p>
+<p>text-align: right;</p>
+<p>text-align: center;</p>
+<p>text-align: justify;</p>
+<p>text-align: justify-all;</p>
+<p>text-align: start;</p>
+<p>text-align: end;</p>
+<p>text-align: match-parent;</p>
 
 
 
