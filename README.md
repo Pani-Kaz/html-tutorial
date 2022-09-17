@@ -9,10 +9,14 @@
 </p>
 
 
-# Índice 
+<h4 align="center"> 
+    :construction:  Projeto em construção  :construction:
+</h4>
 
-* [Textos](#edicaodetexto.html)
-* [Tags](#edicaotagas)
+# :hammer: Funcionalidades do projeto
+
+- `Como editar textos`: poderá criar paginas com diferentes tipos de textos.
+
 
 
 
