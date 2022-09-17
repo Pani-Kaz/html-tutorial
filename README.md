@@ -17,6 +17,49 @@
 
 - `Como editar textos`: poderá criar paginas com diferentes tipos de textos.
 
+# :thought_balloon: Base
+- `Defini a versão do html`
+```
+<!DOCTYPE html>
+```
+- `Tags html na qual é possivel setar a linguagem`
+```
+<html lang="PT-br">
+</html>
+```
+- `Defini a cabeça do projeto`
+```
+<head></head>
+```
+- `Defini a Biblioteca de caracteres`
+```
+<meta charset="UTF-8">
+```
+- `Defini o titulo da pagina`
+```
+<title></title>
+```
+- `Defini o corpo do projeto`
+```
+<body></body>
+```
+
+# :thought_balloon: Textos
+
+
+- `Texto normal`
+```
+<p>Texto</p>
+```
+- `Texto em negrito`
+```
+<p> <strong> Texto </strong> </p>
+```
+- `Texto em italico`
+```
+<p> <em> Texto </em> </p>
+```
+
 
 
 
